@@ -24,6 +24,7 @@
   ### Data Cleaning and preparation
 
   In the initial phase of the Data cleaning and preparartions, we perform the following action;
+  
   1.Data loading and inspection
   2.Handling missing variables
   3.Data cleaning ands formating
