@@ -30,3 +30,10 @@
   2. Handling missing variables
   
   3. Data cleaning ands formating
+
+ ### Exploratory Data Analysis
+
+ - What is the overall sales trend
+ - Which product are top sellers
+ - What are the products on peak sales?
+     
