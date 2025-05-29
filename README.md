@@ -8,3 +8,12 @@
  ## Project Topic:Sale Analysis
 
 ### Project Overview
+
+
+### Tools used
+- MS Excel for Dasta Cleaning (Download Here)
+   - For Data Collecting
+   - For Data Cleaning
+- SQL Server (For Querying and Analysis
+- Power Bi (For Creating a report)
+- MS Power Point (For Presentation)
