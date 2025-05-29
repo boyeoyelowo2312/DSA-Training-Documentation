@@ -43,12 +43,12 @@
    This is whare we include some basic lines of code or queries or even some of the DAX expressions used during your Ana
    lysis
 
-   ....SQL
+   ```SQL
   
    SELECT A,B,C
    
    WHERE A>15
 
-   ....
+   ```
    
 
