@@ -32,8 +32,13 @@
   3. Data cleaning ands formating
 
  ### Exploratory Data Analysis
+ EDA involved the exploring of the Data tp answer some questions about the Data such as;
 
  - What is the overall sales trend
  - Which product are top sellers
  - What are the products on peak sales?
-     
+
+   ### Data Analysis
+
+   This is whare we include some basic lines of code or queries or even some of the DAX expressions used during your Ana
+   lysis
