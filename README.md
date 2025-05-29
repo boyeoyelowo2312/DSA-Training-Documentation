@@ -11,7 +11,7 @@
 
 
 ### Tools used
-- MS Excel for Dasta Cleaning [Download Here](https://www>microsoft.com)
+- MS Excel for Dasta Cleaning [Download Here](https://www.microsoft.com)
    - For Data Collecting
    - For Data Cleaning
       1. Data Manipulation
