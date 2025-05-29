@@ -14,6 +14,9 @@
 - MS Excel for Dasta Cleaning (Download Here)
    - For Data Collecting
    - For Data Cleaning
+      1. Data Manipulation
+      2. Data Munching
+         
 - SQL Server (For Querying and Analysis
 - Power Bi (For Creating a report)
 - MS Power Point (For Presentation)
