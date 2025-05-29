@@ -18,7 +18,7 @@
       2. Data Munching
          
 - SQL Server (For Querying and Analysis
-- Power Bi (For Creating a report)
+- Power Bi [download](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - MS Power Point (For Presentation)
 
   ### Data Cleaning and preparation
